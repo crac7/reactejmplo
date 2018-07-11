@@ -1,0 +1,24 @@
+{
+  "Vengadores":[
+    {
+    "nombreVengador":"Capitan America",
+    "Historia":"Inyecion de super soldado",
+    "Poder":"Fuerza e Inteligencia militar"
+  },
+  {
+    "nombreVengador":"Hulk",
+    "Historia":"Accidentes con rayos gama",
+    "Poder":"Fuerza Bruta"
+  },
+  {
+    "nombreVengador":"Dotor stranger",
+    "Historia":"Accidente ene las manos lo llevo al Himalaya",
+    "Poder":"Magia"
+  },
+  {
+  "nombreVengador":"Capitan America",
+  "Historia":"Inyecion de super soldado",
+  "Poder":"Fuerza e Inteligencia militar"
+  }
+  ]
+}
